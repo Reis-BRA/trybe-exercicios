@@ -1,1 +1,6 @@
-# Repositorios de exercicios do incio até o momento atual na Trybe
+# Meu repositorio de exercicios da trybe.
+
+
+Aqui contém todos os exercicios feitos até hoje.
+
+
