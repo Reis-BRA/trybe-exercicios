@@ -1,3 +1,5 @@
-# Repositorios de exercicios do incio até o momento atual na Trybe
+atualiza-readme
+# Meu repositorio de exercicios da trybe.
 
-Somente testando
+
+Aqui contém todos os exercicios feitos até hoje.
